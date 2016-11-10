@@ -9,5 +9,6 @@ Inventory:
 
 Wanted:
 
+ * [Google Tensorflow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html)
  * [Bullet Physics](http://www.continuousphysics.com/Bullet/BulletFull/index.html)
  * [Nvidia PhysX](http://docs.nvidia.com/gameworks/)
