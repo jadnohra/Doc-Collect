@@ -8,3 +8,4 @@ Inventory:
 Wanted:
 
  * [Bullet Physics](http://www.continuousphysics.com/Bullet/BulletFull/index.html)
+ * [Nvidia PhysX](http://docs.nvidia.com/gameworks/)
